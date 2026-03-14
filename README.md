@@ -21,7 +21,7 @@ Trained on the [IWSLT'15 English-Vietnamese](https://www.kaggle.com/datasets/tua
 ![Loss](pictures/Loss.png)
 
 ## Attention Heatmaps
-![Heatmaps](pictures/Attention_heatmaps.png)
+![Heatmaps](pictures/Attention_heatmap.png)
 
 ## Project Structure
 
